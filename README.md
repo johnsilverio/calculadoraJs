@@ -2,8 +2,6 @@
 
 Desafio de criação de uma calculadora usando HTML, CSS e JavaScript! Neste desafio, foi criado uma calculadora funcional com uma interface amigável, sem utilizar bibliotecas externas.
 
-<div align="center"> <img src="assets/img/screenshot.png" alt="100 Days of Java Challenge"> </div>
-
 ## Objetivo
 
 O objetivo deste desafio é construir uma calculadora com as seguintes funcionalidades:
@@ -12,6 +10,8 @@ O objetivo deste desafio é construir uma calculadora com as seguintes funcional
 - Exibição dos números e resultados em uma interface limpa e responsiva.
 - Funcionamento correto de operações com múltiplos dígitos e pontos decimais.
 - Capacidade de realizar operações em sequência sem precisar pressionar o botão de igual repetidamente.
+
+<div align="center"> <img src="assets/img/screenshot.png" alt="100 Days of Java Challenge"> </div>
 
 ## Estrutura do Projeto
 
